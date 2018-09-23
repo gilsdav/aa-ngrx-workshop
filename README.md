@@ -1,5 +1,7 @@
 # AANGRXWorkshop (Angular Advanced NGRX Workshop)
 
+*Based on https://github.com/toddmotto/ac-boilerplate*
+
 ![Zozor](https://avatars0.githubusercontent.com/u/16272733?s=200&v=4)
 
 ## Development server
