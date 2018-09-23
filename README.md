@@ -93,3 +93,5 @@ L'API Rest est disponible à l'adresse `http://localhost:3000/`
 * Mettre en place la sélection d'une pizza avec le store
     * Eviter les appels services multiples
 * Mettre en place un guard qui lance un `LOAD_PIZZAS` au cas ou les pizzas ne sont pas chargées au moment ou l'on accès à une pizza spécifique
+
+![Zozor](https://www.letscode.hu/img/letscodelogo190.png)
